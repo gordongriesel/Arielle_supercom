@@ -1,0 +1,19 @@
+
+write a function that will determine if an array list is full. return true (full) of false.
+
+write a loop that will search an array.
+
+Gordon's question
+1. which statement will display an address?
+   given the following.
+
+int *x = &y;
+
+A. cout << x;
+B. cout << &x;
+C. cout << *x;
+D. cout << y;
+
+
+
+
